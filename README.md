@@ -1,8 +1,8 @@
 ### This is a Random ASCII Art Generator.<br>
 <ul>
-<li>You can enter your own characters where you think they fit together.</li><br>
-<li>Or you choose from a theme selection.</li><br>
-<li>Enter the amount of charactes, lines and gaps.</li><br>
+<li>You can enter your own characters where you think they fit together.</li>
+<li>Or you choose from a theme selection.</li>
+<li>Enter the amount of charactes, lines and gaps.</li>
 <li>Then press "Generate"!</li>
 </ul>
 
